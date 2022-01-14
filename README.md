@@ -1,4 +1,16 @@
 # premier-league-DashBoard!
+## About The Project
+
+This Repo is About DashBoard for premier League Statistics over 10 years from 2010 to 2020
+
+
+
+### Built With
+
+* [Plotly](https://plotly.com/)
+
+## Screenshots
+
 ![1](https://user-images.githubusercontent.com/43166822/140610796-7a3c14b6-a8b8-44b9-8b35-aad577057de6.png)
 ![2](https://user-images.githubusercontent.com/43166822/140610784-46f54fb5-4c0c-4ba0-8b39-adefa2fbfcfd.png)
 ![3](https://user-images.githubusercontent.com/43166822/140610789-895c48b7-619a-4419-87fc-ececffb6b111.png)
